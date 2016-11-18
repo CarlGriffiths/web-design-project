@@ -43,6 +43,12 @@ html, body {
     border-radius: 4px;
 
 }
+.button:hover {
+     /* navbar red */
+    background-color: #A83838;
+    color: #ffffff;
+
+}
 
 .row1 {
 	float: left;
