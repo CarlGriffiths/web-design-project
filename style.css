@@ -28,6 +28,22 @@ html, body {
 
 }
 
+.button {
+     /* navbar red */
+    border: solid #A83838 .2em;
+    color: #A83838;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-weight: bold;
+    cursor: pointer;
+    font-size: .8em;
+    margin-left: 40%;
+    border-radius: 4px;
+
+}
+
 .row1 {
 	float: left;
 	margin-left: 1em;
