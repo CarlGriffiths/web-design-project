@@ -99,11 +99,10 @@ a.testhover:hover {
 	color: #5E74FF;
 	
 }
-.imgThumbnail2 {
+.testtitle {
 	float: left;
 	margin-left: 3em;
-	width: 13.0em;
-	height: 9.0em;
+	
 }
 
 .imgThumbnail2 a:hover {
