@@ -102,10 +102,12 @@ a.testhover:hover {
 .testtitle {
 	float: left;
 	margin-left: 3em;
+	width: 13.0em;
+	height: 9.0em;
 	
 }
 
-.imgThumbnail2 a:hover {
+.testtitle a:hover {
 	opacity: .1;
 }
 
