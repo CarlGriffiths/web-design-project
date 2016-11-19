@@ -76,6 +76,10 @@ ul {
 
 }
 
+h1 {
+	font-family: 'Roboto', sans-serif;
+}
+
 .updatesNews a {
 	text-decoration: none;
 	color: #000000;
@@ -272,14 +276,17 @@ section {
 	background-color: #ecf0f1;
 	
 
+	font-family: 'Roboto', sans-serif;
 	overflow: hidden;
 
 }
 #welcomeSection h1 {
 	font-size: 4em;
+	font-family: 'Roboto', sans-serif;
 }
 #aboutSection {
 	background-color: #F5F5F5;
+	font-family: 'Roboto', sans-serif;
 
 
 }
