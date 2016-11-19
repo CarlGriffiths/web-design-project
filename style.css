@@ -99,12 +99,14 @@ a.testhover:hover {
 	color: #5E74FF;
 	
 }
-.testtitle {
+.imgThumbnail2 {
 	float: left;
 	margin-left: 3em;
+	width: 13.0em;
+	height: 9.0em;
 }
 
-.testtitle a:hover {
+.imgThumbnail2 a:hover {
 	opacity: .1;
 }
 
@@ -257,6 +259,11 @@ footer h3 {
 	
 }
 
+.imgThumbnail {
+	width: 13.0em;
+	height: 9.0em;
+}
+
 
 
 
@@ -297,6 +304,18 @@ section {
 	
 
 
+}
+
+.floatImgLeft {
+	float: left;
+	width: 30em;
+	height: 20em;
+	clear: left;
+
+}
+p.floatTextRight {
+	float: right;
+	clear: left;
 }
 
 h2 {

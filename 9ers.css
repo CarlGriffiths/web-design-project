@@ -24,5 +24,11 @@ p{
 	font-style:italic;
 }
 
+.scheduleImg{
+	position:auto;
+	max-width:40%;
+	float:center;
+	margin-bottom:.25em;
+	}
 
 
