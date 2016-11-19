@@ -276,21 +276,24 @@ section {
 	background-color: #ecf0f1;
 	
 
-	font-family: 'Roboto', sans-serif;
+	
 	overflow: hidden;
 
 }
 #welcomeSection h1 {
 	font-size: 4em;
-	font-family: 'Roboto', sans-serif;
+	
 }
 #aboutSection {
 	background-color: #F5F5F5;
-	font-family: 'Roboto', sans-serif;
+	
 
 
 }
 
+h2 {
+	font-family: 'Roboto', sans-serif;
+}
 #footerHome {
 	background-color:#CD0606;
 	color: #000000;
