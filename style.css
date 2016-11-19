@@ -285,7 +285,7 @@ section {
 	
 }
 #aboutSection {
-	background-color: #F5F5F5;
+	background-color: #E6BE8A;
 	
 
 
@@ -299,68 +299,3 @@ h2 {
 	color: #000000;
 	height: 1%;
 }
-/*.sectionImg {
-	
-
-	
-
-}
-
-#conhome{
-	width: 100%;
-	overflow: hidden;
-	height: auto;
-
-}
-
-
-.containerHome1 {
-	width: 100%;
-    height: 70%;
-	background-color: white;
-	overflow: hidden;
-	
-	position: absolute;
-	background-image: url(./images/banner1.jpg);
-	background-size: 100% 100%;
-	
-}
-
-.containerHome2 {
-	margin-top: 30%;
-	position: absolute;
-	width: 100%;
-    height: 40%;
-	overflow: hidden;
-	background-color: #D4AF37;
-	
-}
-
-
-.containerHome1 h1 {
-	color: #2E2E2E;
-	position: relative;
-    left: 21%;
-    top: 25%;
-    font-size: 3em;
-	font-weight: bold;
-	text-transform: uppercase;
-	
-}
-
-.containerHome2 h1 {
-	color: white;
-	text-align: center;
-	font-weight: bold;
-	text-transform: uppercase;
-	font-size: 2.5em;
-
-}
-
-.containerHome2 p {
-	color: #FFFFFF;
-	float: left;
-	padding-left: 1.5em;
-	 font-size: 1.5em;
-	
-}*.
