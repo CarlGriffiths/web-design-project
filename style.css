@@ -311,11 +311,13 @@ section {
 	width: 30em;
 	height: 20em;
 	clear: left;
+	
 
 }
 p.floatTextRight {
 	float: right;
-	clear: left;
+	clear: right;
+
 }
 
 h2 {
