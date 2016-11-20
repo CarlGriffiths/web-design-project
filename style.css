@@ -151,14 +151,24 @@ nav {
 }
 nav {
 	height: 4em;
+	  color: #E6BE8A;
 }
 nav a {
 	font-weight: bold;
-    color: #E6BE8A;
-    text-align: center;
+	color: #E6BE8A;
+    padding-top: 1em;
     padding-right: .5em;
 	padding-left: .5em;
     text-decoration: none;
+}
+
+nav a:hover {
+	color: #ffffff;
+}
+
+.activeLink {
+	color: #ffffff;
+
 }
 
 .imgFloat {
