@@ -209,60 +209,6 @@ footer h3 {
 
 }
 
-.footerTest {
-	
-	background-color:#CD0606;
-	color: #000000;
-	position: absolute;
-	width: 100%;
-	bottom: 0%;
-	left: 0%;
-	
-
-	
-
-	
-}
-
-/*.text1 {
-	float: left;
-	clear: left;
-	margin-top: 0%;
-	margin-left: 20%;
-	overflow: hidden;
-	
-
-
-
-}
-.testfloat {
-	float: left;
-	clear: left;
-	margin-top: 1%;
-	margin-left: 20%;
-	overflow: hidden;
-}
-
-.ledft {
-	float: left;
-	
-	margin-top: 0%;
-	margin-left: 3%;
-
-}*/
-
-.scoreTest {
-	float: right;
-	clear: right;
-	top: 2%;
-	margin-left: 2%;
-	
-	border: solid black .1em;
-	clear: both;
-
-
-
-}
 
 #containerScore{
 	border: solid black .1em;
@@ -361,9 +307,6 @@ h4{
 
 
 	
-p{
-	font-style:italic;
-}
 
 .scheduleImg{
 	position:auto;
