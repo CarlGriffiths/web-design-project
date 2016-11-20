@@ -172,6 +172,11 @@ nav a:hover {
 	color: #ffffff;
 
 }
+iframe {
+	width: 3em;
+	height: 17em;
+}
+width="560" height="315"
 
 .imgFloat {
 	float: right;
