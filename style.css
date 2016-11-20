@@ -1,3 +1,5 @@
+ /* Carl Griffiths CSS */
+
 html, body {
 	
    
@@ -46,7 +48,7 @@ html, body {
 .button:hover {
      /* navbar red */
     background-color: #A83838;
-    color: #ffffff;
+    color: #E6BE8A;
 
 }
 
@@ -334,4 +336,40 @@ p.floatTextRight {
 h2 {
 	font-family: 'Roboto', sans-serif;
 }
+
+
+ /* Anthony css */
+ summary{
+	border:3em solid #AF1E2C;
+	border-color: solid black;
+	background-color: #E6BE8A;
+	padding:.25cm;
+	text-align: center;
+	letter-spacing:.25cm;
+	font-family:Arial;
+	font-weight:bold;
+	border-spacing:50cm;
+	border-radius: .35cm;
+	border-collapse:separate;
+	border-spacing:.25cm;
+}
+h4{
+	font-weight:bold;
+	text-align:left-side;
+	
+}
+
+
+	
+p{
+	font-style:italic;
+}
+
+.scheduleImg{
+	position:auto;
+	max-width:40%;
+	float:center;
+	margin-bottom:.25em;
+	}
+
 
