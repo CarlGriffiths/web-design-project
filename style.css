@@ -154,7 +154,7 @@ nav {
 }
 nav a {
 	font-weight: bold;
-    color: white;
+    color: #E6BE8A;
     text-align: center;
     padding-right: .5em;
 	padding-left: .5em;
@@ -191,7 +191,7 @@ footer {
 }
 
 footer h3 {
-	color: #000000;
+	color: #E6BE8A;
 	text-align: center;
 	padding-top: 1.2em;
 
