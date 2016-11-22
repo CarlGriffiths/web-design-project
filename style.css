@@ -332,3 +332,16 @@ h4{
 	}
 
 
+ /* Joe  CSS */
+ table {
+	text-align: center;
+	color: #FFFFFF;
+	font-size:1em;
+	width: 100%;
+	text-shadow: 0.1em 0.1em #000000;
+}
+
+.playerpics {
+	height: 5em;
+	width: 6em;
+}
