@@ -361,6 +361,15 @@ h2 {
 	font-size: 2em;
 }
 
+.social {
+	width: 60%;
+	height:5%;
+	float: left;
+	margin-left: 20%;
+
+}
+
+
 
  /* Anthony css */
  summary{
