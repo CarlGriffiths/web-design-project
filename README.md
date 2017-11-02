@@ -1,3 +1,3 @@
-# A static website I created for the San Francisco 49er's. I plan to make it responsive sometime in the future 
-Website can be viewed here https://carlgriffiths.github.io/
-Note: I only included the home and updates page as these were the pages I done for the project
+# Web design project - semester 1
+
+This is static website I created for the San Francisco 49er's. 
